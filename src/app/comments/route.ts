@@ -17,3 +17,5 @@ export async function POST(request: Request) {
     status: 201,
   });
 }
+
+//dynamic route handlers
